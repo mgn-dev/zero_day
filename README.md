@@ -1,1 +1,1 @@
-Vagrant task 0
+Task 0 of Vagrant installation project
